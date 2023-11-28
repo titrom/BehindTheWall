@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7833d81054d464eb6f4c910c2648e7, type: 3}
+  m_Name: G
+  m_EditorClassIdentifier: 
+  buttonTexture: {fileID: -1946972054, guid: b92a5fb0a40a25942b34e2eed971e5be, type: 3}
+  keyCode: 103
